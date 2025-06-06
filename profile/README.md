@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hello!+I'm+Sooin+Jung&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Pimfy-Virus&fontSize=80" />
 
 ## 👀 About us
 #### :raising_hand: 저희는 빅데이터 혁신융합대학 Link BIG 프로젝트의 핌피바이러스 팀입니다!.<br/>
