@@ -18,18 +18,7 @@ We are a passionate group of developers building something amazing.
 - @SeobinYoon
 - @Teammate2
 
-## project architecture
-
-animal-recommendation-system/
-├── data_preprocessor.py    # 데이터 전처리 모듈
-├── animal_filter.py        # 필터링 모듈
-├── main.py                # 메인 실행 파일
-├── config.py              # 설정 파일
-├── requirements.txt       # 필요한 패키지 목록
-├── README.md              
-└── pimfyvirus_dog_data.csv # 원본 데이터
-
-## commit message
+### commit message
 
 - fix: 코드를 수정하거나 버그 수정
 - feat: 새로운 기능을 추가했을 때
