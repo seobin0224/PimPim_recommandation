@@ -15,5 +15,5 @@ We are a passionate group of developers building something amazing.
 
 ### 🙌 Team Members
 - @SooinJung
-- @Teammate1
+- @SeobinYoon
 - @Teammate2
